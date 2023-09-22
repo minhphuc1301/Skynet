@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skynet", "Skynet\Skynet.csproj", "{529149E8-6635-4E72-9AEE-36978053FBB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{AC005F83-C11C-489D-B27E-E8F214288728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{A2D6E82D-7A71-4B94-A0BB-252F46F1F67A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{529149E8-6635-4E72-9AEE-36978053FBB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529149E8-6635-4E72-9AEE-36978053FBB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529149E8-6635-4E72-9AEE-36978053FBB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529149E8-6635-4E72-9AEE-36978053FBB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC005F83-C11C-489D-B27E-E8F214288728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC005F83-C11C-489D-B27E-E8F214288728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC005F83-C11C-489D-B27E-E8F214288728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC005F83-C11C-489D-B27E-E8F214288728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2D6E82D-7A71-4B94-A0BB-252F46F1F67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D6E82D-7A71-4B94-A0BB-252F46F1F67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D6E82D-7A71-4B94-A0BB-252F46F1F67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D6E82D-7A71-4B94-A0BB-252F46F1F67A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D00CD1A-4C7F-4A54-82EC-92168F46D102}
+	EndGlobalSection
+EndGlobal
